@@ -15,6 +15,6 @@ Then the user needs to specify the service he wants
 Example: /gen netflix  - The bot will search for netflix.txt file and take an account.
 
 # Free to use 
-https://en.wikipedia.org/wiki/Free_Software_Foundation
-https://en.wikipedia.org/wiki/Anarchy
+https://en.wikipedia.org/wiki/Free_Software_Foundation  
+https://en.wikipedia.org/wiki/Anarchy  
 https://en.wikipedia.org/wiki/Anarchism
