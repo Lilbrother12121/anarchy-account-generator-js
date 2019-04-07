@@ -1,5 +1,6 @@
 # Anarchy Account Generator
-A discord bot that gives you accounts!
+A discord bot that gives you accounts!  
+For any issue, join [this discord server](https://discord.gg/hQZyAmp)  
 
 # Packages
 -discord.js  
